@@ -1,9 +1,9 @@
 # first step
-sudo apt-get install cmake
+sudo apt-get install cmake  
 sudo apt-get install libjpeg8-dev
 
 
-# second 
+# second step 
 ```
 make clean all
 ```
